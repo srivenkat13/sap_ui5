@@ -1,0 +1,4 @@
+specVersion: '2.5'
+metadata:
+  name: SAP_UI5
+type: application
