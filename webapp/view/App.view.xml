@@ -6,5 +6,4 @@
       text="Say Hello"
       press=".onShowHello"/>
 
-    <Text text="Hello World"/>
 </mvc:View>
