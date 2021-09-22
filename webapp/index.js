@@ -1,5 +1,11 @@
-sap.ui.define([], function () {
-  "use strict";
+sap.ui.define(
+  ["sap/m/Text"],
 
-  alert("UI5 is ready to go !");
-});
+  function (Text) {
+    "use strict";
+
+    new Text({
+      text: "Hello World",
+    }).placeAt("content");
+  }
+);
