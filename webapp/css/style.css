@@ -1,0 +1,11 @@
+.myAppDemoWT .myCustomBtn {
+    margin-right: 1.2rem;
+}
+
+.myAppDemoWT .myCustomTxt{
+    display: inline-block;
+    font-weight: bolder;
+    font-size: larger;
+    color: cyan;
+    /* ^ OverWRitting the color specified inline (sapThemeHighlight-asColor) */
+}
